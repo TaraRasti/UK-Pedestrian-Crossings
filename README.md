@@ -63,4 +63,4 @@ The map helps to quickly identify areas where crossings might need closer attent
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/pedestrian-crossing-ni.git
+git clone [https://github.com/yourusername/pedestrian-crossing-ni.git]
