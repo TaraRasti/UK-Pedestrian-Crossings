@@ -58,14 +58,18 @@ The predictions are plotted on an **interactive Folium map** of Northern Ireland
 The map helps to quickly identify areas where crossings might need closer attention or further study.
 
 ---
-📥 Downloading the Pedestrian Crossings Dataset
+## 📥 Downloading the Pedestrian Crossings Dataset
+
 To access the Pedestrian Crossings dataset:
-Visit the dataset page: Pedestrian Crossings on data.gov.uk
-Scroll down to the Data links section.
-Choose your preferred file format:
-CSV: Suitable for tabular data analysis.
-GEOJSON: Ideal for geospatial applications.
-XML: Useful for structured data processing.
-Click the corresponding Download link to obtain the dataset.
-Note: The dataset provides information on pedestrian crossings on roads in Northern Ireland maintained by DfI Roads.
+
+1. Visit the dataset page: [Pedestrian Crossings on data.gov.uk](https://www.data.gov.uk/dataset/eee96cd6-d0f6-44df-8068-0fb43b1075e7/pedestrian-crossings)
+2. Scroll down to the **Data links** section.
+3. Choose your preferred file format:
+   - **CSV**: Suitable for tabular data analysis.
+   - **GEOJSON**: Ideal for geospatial applications.
+   - **XML**: Useful for structured data processing.
+4. Click the corresponding **Download** link to obtain the dataset.
+
+> **Note:** The dataset provides information on pedestrian crossings on roads in Northern Ireland maintained by DfI Roads.
+
 
